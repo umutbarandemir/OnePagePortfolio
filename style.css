@@ -30,6 +30,10 @@ body {
     line-height: 1.80857;
 }
 
+#mainNav img{
+    max-width: 250px;
+}
+
 html, body{
 	height: 100%;
 }
@@ -843,6 +847,10 @@ xclip
 .testi-meta {
     display: block;
     margin-top: 20px;
+}
+
+.testi-meta a{
+    opacity: 0.6;
 }
 
 .testimonial h4 {
