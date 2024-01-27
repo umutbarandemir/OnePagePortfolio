@@ -307,9 +307,9 @@ a img.aligncenter {
     HEADER
 -------------------------------------------------------------------*/
 
-.navbar-dark{
+/* .navbar-dark{
 	
-}
+} */
 
 .navbar-dark .navbar-nav .nav-link{
 	color: #ffffff;
@@ -654,9 +654,8 @@ xclip
     z-index: 0;
 }
 
-
-
 .services-inner-box{
+    /* text-align: center; */
 	padding: 15px;
 	background: #ffffff;
 	margin-bottom: 30px;
@@ -666,11 +665,24 @@ xclip
     color: purple;
 }
 
+.services-inner-box button{
+    border-radius: 10px;
+    margin-left: 200px;
+    background-color: transparent;
+}
+
+.services-inner-box button:hover{
+    color: gray;
+    cursor: pointer;
+}
+
 .ser-icon{
-	width: 90px;
-	height: 90px;
+	width: 100px;
+	height: 100px;
 	text-align: center;
 	line-height: 90px;
+    margin-left: -10px;
+    
 }
 .ser-icon i{
 	font-size: 50px;
