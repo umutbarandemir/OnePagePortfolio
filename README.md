@@ -1,5 +1,9 @@
-#ANGULAR ONEPAGE PORTFOLIO
+#ONEPAGE PORTFOLIO
 
 [GitHub](https://github.com/umutbarandemir/OnePagePortfolio)
 
-#Umut Baran Demir , 22 January 2024
+#ANGULAR VERSION
+
+[GitHub](https://github.com/umutbarandemir/TechCareerAngularFinal)
+
+#Umut Baran Demir , 28 January 2024
